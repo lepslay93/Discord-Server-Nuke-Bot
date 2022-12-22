@@ -8,7 +8,7 @@
 
 # Notices 
 * I do not take any responsibility over whatever you are going to do with this bot.
-* If you need help or have any general questions, join the [Discord Server](https://discord.gg/ZpkXb7j6RC)
+* If you need help or have any general questions, join the [Discord Server](https://discord.gg/8xSxF9UtzY)
 
 # Messages
 * If you would like to contribute to this project, please make a [pull request](https://github.com/AmNobCop/Discord-Raid-Bot/pulls).
