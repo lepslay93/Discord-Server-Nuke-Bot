@@ -1,5 +1,5 @@
 # Discord Server Nuke Bot
-## Made by AmNobCop
+## Made by AmNobCop (Nob#8609)
 * Cybernetic is currently the **FASTEST** and **FREE** open source self-hosted Discord nuke bot written in Discord.js that works. All commands are focused on nuking.
 
 * If you need help or have any general questions, join the [Discord Server](https://discord.gg/ZpkXb7j6RC)
