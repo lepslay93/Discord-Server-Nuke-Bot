@@ -13,7 +13,7 @@ module.exports = {
       .setColor(0xFF7400)
       .setTitle('Bot Information')
       .setURL('https://github.com/AmNobCop/Discord-Server-Nuke-Bot')
-      .setDescription(`**Developer:** Nob#8609 \n **Support Server:** https://discord.gg/ZpkXb7j6RC \n **Github Repository:** https://github.com/AmNobCop/Discord-Server-Nuke-Bot \n \n **Bot Invite Link:** https://discord.com/api/oauth2/authorize?client_id=${clientId}&permissions=8&scope=bot%20applications.commands`)
+      .setDescription(`**Developer:** Nob#8609 \n **Support Server:** https://discord.gg/8xSxF9UtzY \n **Github Repository:** https://github.com/AmNobCop/Discord-Server-Nuke-Bot \n \n **Bot Invite Link:** https://discord.com/api/oauth2/authorize?client_id=${clientId}&permissions=8&scope=bot%20applications.commands`)
       .addFields(
         { name: 'Command Information', value: 'All commands can be found below along with the description of each command.' },
         { name: 'ban-all', value: 'Will ban all users that are able to be banned by the bot.', inline: true },
