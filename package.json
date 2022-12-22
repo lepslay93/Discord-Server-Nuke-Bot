@@ -1,0 +1,22 @@
+{
+  "name": "discord-server-raid-bot",
+  "version": "1.0.0",
+  "description": "Discord Server Raid Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AmNobCop",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmNobCop/Discord-Server-Nuke-Bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AmNobCop/Discord-Server-Nuke-Bot/issues"
+  },
+  "homepage": "https://github.com/AmNobCop/Discord-Server-Nuke-Bot#readme"
+}

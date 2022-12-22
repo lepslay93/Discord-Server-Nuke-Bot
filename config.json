@@ -1,0 +1,9 @@
+{
+    "token": "BOT_TOKEN_GOES_HERE",
+    "clientId": "BOT_CLIENTID_GOES_HERE",
+    "username": "YOUR_USERNAME_GOES_HERE",
+    "channel_name": "NAME_OF_CREATED_CHANNELS_GOES_HERE",
+    "role_name": "NAME_OF_CREATED_ROLES_GOES_HERE",
+    "spam_message": "SPAM_MESSAGE_GOES_HERE",
+    "dm_message": "DM_MESSAGE_GOES_HERE"
+}
