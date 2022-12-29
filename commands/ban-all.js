@@ -10,8 +10,10 @@ module.exports = {
     await interaction.deferReply();
 
     await interaction.guild.members.cache.forEach(async member => {
-      await member.ban().catch(error => {
-        console.log(`Error: ${error} | Couldn't ban ${member.tag}`)
+      setTimeout(async () => {
+        await member.ban().catch(error => {
+          console.log(`Error: ${error} | Couldn't ban ${member.tag}`)
+        }, 2500)
       })
     });
   },
